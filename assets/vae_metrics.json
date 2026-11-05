@@ -1,0 +1,20 @@
+{
+  "final_loss": 4.3871,
+  "latent_dim": 3,
+  "real_mean": {
+    "protein": 29.8,
+    "carbs": 50.6,
+    "fat": 30.3,
+    "fibre": 5.1,
+    "sugar": 15.2,
+    "sodium": 758.8
+  },
+  "generated_mean": {
+    "protein": 30.7,
+    "carbs": 49.9,
+    "fat": 30.6,
+    "fibre": 4.9,
+    "sugar": 14.6,
+    "sodium": 750.5
+  }
+}

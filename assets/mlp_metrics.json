@@ -1,0 +1,12 @@
+{
+  "optimizers": {
+    "SGD": 22.06,
+    "RMSprop": 13.59,
+    "Adam": 21.97
+  },
+  "regularization": {
+    "No regularization": 28.62,
+    "Dropout + L2": 21.1
+  },
+  "final_test_mae_kcal": 17.46
+}
